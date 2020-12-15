@@ -21,3 +21,8 @@ npm run start
 ## Accessing the Docs
 
 With your local server running, the generated docs are available here: [http://localhost:5000/](http://localhost:5000/)
+
+## Useful Links
+
+[Swagger Editor](https://editor.swagger.io/)  
+[SwaggerHub](https://app.swaggerhub.com/)
